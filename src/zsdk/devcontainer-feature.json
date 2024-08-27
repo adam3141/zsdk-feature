@@ -7,17 +7,17 @@
         "RTOS",
         "Zephyr"
     ],
-    "options" : {
+    "options": {
         "sdk-version": {
             "type": "string",
-            "proposals" : [
-                "v0.12.4",
-                "v0.13.2",
-                "v0.14.2",
-                "v0.15.2",
-                "v0.16.8"
+            "proposals": [
+                "0.12.4",
+                "0.13.2",
+                "0.14.2",
+                "0.15.2",
+                "0.16.8"
             ],
-            "default": "v0.16.8",
+            "default": "0.16.8",
             "description": "Please select the version of the SDK to get"
         },
         "host-tools": {
